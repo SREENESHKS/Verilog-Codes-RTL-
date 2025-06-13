@@ -30,3 +30,4 @@ input b,k;
 output out;
 xor g1(out,k,b);
 endmodule
+//NB IN CASE OF SUBTRACTION IF COUT=0 MEANS BORROW AND COUT=1 MEANS NO BORROW
