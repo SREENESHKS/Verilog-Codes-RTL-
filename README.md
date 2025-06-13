@@ -7,11 +7,9 @@ Welcome to my curated collection of **Verilog HDL projects**, written from scrat
 ## 📚 Table of Contents
 
 - [🎯 About This Repository](#-about-this-repository)
-- [📂 Project Categories](#-project-categories)
 - [💻 Simulation Tools Used](#-simulation-tools-used)
 - [🧠 Learning Goals](#-learning-goals)
-- [📷 Screenshots (Optional)](#-screenshots)
-- [📝 License](#-license)
+- 
 
 ---
 
@@ -26,18 +24,9 @@ This repo is a growing collection of Verilog designs I built as an undergraduate
 - Pipelined designs  
 - Testbenches and waveform verification  
 
----
-
-
-
----
-
 ## 💻 Simulation Tools Used
 
 - **Vivado** – for synthesis and implementation on FPGA (XC7S50)  and for simulation and waveform analysis  
-
-
----
 
 ## 🧠 Learning Goals
 
@@ -46,16 +35,9 @@ This repo is a growing collection of Verilog designs I built as an undergraduate
 - ✅ Gain confidence in writing reusable and testable Verilog modules  
 - ✅ Practice modular design and hierarchical hardware systems
 
----
-
-
----
-
 ## 📝 License
 
 This project is open source under the MIT License. Feel free to fork and use the code with proper attribution.
-
----
 
 ## 🙌 Let's Connect
 
