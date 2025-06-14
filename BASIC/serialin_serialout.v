@@ -4,7 +4,7 @@ module serialinserialout(in,clk,clear,out);
 parameter N=4;
 input in;
 input clk,clear;
-output out;
+output wire out;
 wire [N:0]f;
 assign f[0]=in;
 assign out=f[N];
