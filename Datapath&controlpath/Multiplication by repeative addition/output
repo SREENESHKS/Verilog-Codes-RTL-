@@ -1,0 +1,6 @@
+Time = 0 | Result =     x | Binary = xxxxxxxxxxxxxxxx
+Time = 35000 | Result =     0 | Binary = 0000000000000000
+Time = 45000 | Result =    24 | Binary = 0000000000011000
+Time = 55000 | Result =    48 | Binary = 0000000000110000
+Time = 65000 | Result =    72 | Binary = 0000000001001000
+Time = 75000 | Result =    96 | Binary = 0000000001100000
